@@ -30,3 +30,6 @@ torchvision
 torchaudio
 accelerate
 sentence_transformers
+cosine_similarity
+streamlit
+xcode-select
