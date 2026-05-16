@@ -25,12 +25,16 @@ python-dotenv
 numpy
 scikit-learn
 
+pypdf
+
 torch
 torchvision
 torchaudio
 accelerate
 sentence_transformers
+langchain-community
 cosine_similarity
-streamlit
-xcode-select
+# streamlit
+# xcode-select
 pydantic
+beautifulsoup4
