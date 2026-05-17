@@ -25,7 +25,10 @@ python-dotenv
 numpy
 scikit-learn
 
+langchain-text-splitters
 pypdf
+langchain-experimental
+tiktoken
 
 torch
 torchvision
